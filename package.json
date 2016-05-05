@@ -1,0 +1,11 @@
+{
+  "name": "robert-lax-machine",
+  "version": "1.0.0",
+  "description": "Just a project that makes Robert Lax-like 'Red Red Blue' poems for fun",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer 8888 & livereload . -e 'js css html'"
+  },
+  "keywords": [ "poetry", "art", "fun" ],
+  "author": "Aaron Petcoff",
+  "license": "ISC"
+}
